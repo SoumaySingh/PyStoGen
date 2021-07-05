@@ -1,0 +1,51 @@
+=============================================Application Started at 2021-06-22 19:04:17.8903582021-06-22 19:04:17.890886 mainFile This is the first launch.
+2021-06-22 19:05:29.833394 genSalt Salt created
+2021-06-22 19:05:29.834509 storeGlobal GPwd stored
+2021-06-22 19:05:29.870324 countAccounts No accounts found on startup
+2021-06-22 19:05:29.870642 countAccounts No accounts found on startup
+2021-06-22 19:05:29.884420 countAccounts No accounts found on startup
+2021-06-22 19:05:29.886850 countAccounts No accounts found on startup
+2021-06-22 19:06:49.463434 encrypt[al] Encrypt password request.
+2021-06-22 19:06:49.463815 countAccounts No accounts found on startup
+2021-06-22 19:06:49.470128 addEntry New account added: amazon
+2021-06-22 19:06:49.482463 refreshWindow Window has been refreshed.
+2021-06-22 19:06:49.516213 countAccounts Found 1 account(s) on startup
+2021-06-22 19:06:49.516693 countAccounts Found 1 account(s) on startup
+2021-06-22 19:06:49.540236 countAccounts Found 1 account(s) on startup
+2021-06-22 19:06:49.544173 countAccounts Found 1 account(s) on startup
+2021-06-22 19:06:49.544567 countAccounts Found 1 account(s) on startup
+2021-06-22 19:07:12.594431 decrypt[al] Decrypt password request.
+2021-06-22 19:07:21.124360 decrypt[al] Decrypt password request.
+=============================================Application Started at 2021-07-04 22:07:30.1679822021-07-04 22:07:30.169555 mainFile Data found
+2021-07-04 22:07:30.905872 countAccounts Found 1 account(s) on startup
+2021-07-04 22:07:30.906564 countAccounts Found 1 account(s) on startup
+2021-07-04 22:07:31.000402 countAccounts Found 1 account(s) on startup
+2021-07-04 22:07:31.004209 countAccounts Found 1 account(s) on startup
+2021-07-04 22:07:31.004618 countAccounts Found 1 account(s) on startup
+2021-07-04 22:52:53.465975 encrypt[al] Encrypt password request.
+2021-07-04 22:52:53.468076 countAccounts Found 1 account(s) on startup
+2021-07-04 22:52:53.469207 addEntry New account added: a
+2021-07-04 22:52:53.475473 refreshWindow Window has been refreshed.
+2021-07-04 22:52:53.525543 countAccounts Found 2 account(s) on startup
+2021-07-04 22:52:53.525951 countAccounts Found 2 account(s) on startup
+2021-07-04 22:52:53.540216 countAccounts Found 2 account(s) on startup
+2021-07-04 22:52:53.543670 countAccounts Found 2 account(s) on startup
+2021-07-04 22:52:53.544170 countAccounts Found 2 account(s) on startup
+2021-07-05 02:05:24.347909 checkPassword Bad Global
+2021-07-05 02:05:29.987747 checkPassword Bad Global
+2021-07-05 02:05:31.560790 checkPassword Bad Global
+2021-07-05 02:05:35.392795 checkPassword Bad Global
+2021-07-05 02:05:36.363647 checkPassword Bad Global
+2021-07-05 02:05:44.387550 decrypt[al] Decrypt password request.
+2021-07-05 02:13:05.421513 decrypt[al] Decrypt password request.
+2021-07-05 02:15:46.683242 deleteAll Deleted all accounts.
+2021-07-05 02:15:46.683468 refreshWindow Window has been refreshed.
+2021-07-05 02:15:46.735199 countAccounts No accounts found on startup
+2021-07-05 02:15:46.735622 countAccounts No accounts found on startup
+2021-07-05 02:15:46.747756 countAccounts No accounts found on startup
+2021-07-05 02:15:46.750094 countAccounts No accounts found on startup
+=============================================Application Started at 2021-07-05 11:58:18.1621272021-07-05 11:58:18.164659 mainFile Data found
+2021-07-05 11:58:18.528255 countAccounts No accounts found on startup
+2021-07-05 11:58:18.528612 countAccounts No accounts found on startup
+2021-07-05 11:58:18.657556 countAccounts No accounts found on startup
+2021-07-05 11:58:18.660050 countAccounts No accounts found on startup
