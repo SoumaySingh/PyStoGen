@@ -9,7 +9,7 @@ sys.path.insert(0, 'bin')
 # Import app modules
 import f
 
-
+#this is a comment
 #Log the startup
 f.LogStartUp()
 
